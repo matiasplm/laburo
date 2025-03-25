@@ -1,3 +1,4 @@
 name= "matias"
 edad = 32
-print(f"{name},{edad}")
+fecha = "23 de junio"
+print(f"{name},{edad} nacido el {fecha}")
